@@ -8,10 +8,17 @@ img {
 }
 
 .title {
+  display:flex;
   font-size: 36px;
   font-weight: 900;
+  justify-content: center;
+  margin: 32px;
 }
-
+#images {
+  display:flex;
+  align-items: center;
+  gap: 52px
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
