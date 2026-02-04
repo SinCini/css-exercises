@@ -48,6 +48,8 @@ ul {
   display: flex;
   gap: 16px;
 }
-.left .right{
+.Left, .right{
   gap:16px;
+  display:flex;
+  align-items: center;
 }
