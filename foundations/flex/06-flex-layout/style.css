@@ -33,6 +33,9 @@ img {
 .footer {
   background-color: #eeeeee;
 }
+button{
+  padding:10px;
+}
 .content{
   display: flex;
   flex-direction: column;
